@@ -1,0 +1,4 @@
+gradio>=5.0.0
+groq>=0.11.0
+opencv-python-headless>=4.10.0
+imageio-ffmpeg>=0.5.1
